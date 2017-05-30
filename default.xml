@@ -1,0 +1,10 @@
+
+<manifest>
+    <remote name="mbrazeau" alias="origin" fetch="https://github.com/mbrazeau"/>
+    <remote name="mtholder" alias="origin" fetch="https://github.com/mtholder"/>
+    <default revision="refs/heads/master"       remote="mbrazeau" sync-j="4"/>
+    <project name="MorphyLib" remote="mbrazeau" path="MorphyLib"/>
+    <project name="treelib"   remote="mbrazeau" path="treelib"/>
+    <project name="PAWM"      remote="mbrazeau" path="PAWM"/>
+    <project name="ncl"       remote="mtholder" path="ncl"/>
+</manifest>
