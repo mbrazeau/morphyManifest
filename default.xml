@@ -6,5 +6,6 @@
     <project name="MorphyLib" remote="mbrazeau" path="MorphyLib"/>
     <project name="treelib"   remote="mbrazeau" path="treelib"/>
     <project name="PAWM"      remote="mbrazeau" path="PAWM"/>
+    <project name="MorphUI"   remote="mbrazeau" path="MorphUI"/>
     <project name="ncl"       remote="mtholder" path="ncl"/>
 </manifest>
