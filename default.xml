@@ -8,5 +8,6 @@
     <project name="PAWM"      remote="mbrazeau" path="PAWM"/>
     <project name="ncl"       remote="mtholder" path="ncl"/>
     <project name="build"     remote="mbrazeau" path="build"/>
+    <project name="nui"       remote="mbrazeau" path="nui"/>
 
 </manifest>
