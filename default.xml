@@ -3,7 +3,7 @@
     <remote name="mbrazeau" alias="origin" fetch="https://github.com/mbrazeau"/>
     <remote name="mtholder" alias="origin" fetch="https://github.com/mtholder"/>
     <default revision="refs/heads/master"       remote="mbrazeau" sync-j="4"/>
-    <project name="morphylib" remote="mbrazeau" path="morphylib"/>
+    <project name="morphylib" remote="mbrazeau" path="morphylib" revision="refs/heads/development"/>
     <project name="pcl"		  remote="mbrazeau" path="pcl"/>
     <project name="PAWM"      remote="mbrazeau" path="PAWM"/>
     <project name="ncl"       remote="mtholder" path="ncl"/>
