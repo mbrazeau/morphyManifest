@@ -1,4 +1,4 @@
-The morphy repo manifest, my workflow is as follows:
+The morphy repo manifest:
 
     repo init -u https://github.com/mbrazeau/morphyManifest
     repo sync
