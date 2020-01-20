@@ -3,12 +3,10 @@
     <remote name="mbrazeau" alias="origin" fetch="https://github.com/mbrazeau"/>
     <remote name="cdesjardins" alias="origin" fetch="https://github.com/cdesjardins"/>
     <default revision="refs/heads/master"       remote="mbrazeau" sync-j="4"/>
-    <project name="morphylib" remote="mbrazeau" path="morphylib" revision="refs/heads/development"/>
-    <project name="pcl"		  remote="mbrazeau" path="pcl"/>
-    <project name="PAWM"      remote="mbrazeau" path="PAWM"/>
-    <project name="ncl"       remote="cdesjardins" path="ncl"/>
+    <project name="mpl"			remote="mbrazeau"    path="mpl" revision="refs/heads/development"/>
+    <project name="ncl"			remote="cdesjardins" path="ncl"/>
     <project name="wineditline" remote="cdesjardins" path="external/wineditline"/>
-    <project name="build"     remote="mbrazeau" path="build"/>
-    <project name="nui"       remote="mbrazeau" path="nui"/>
+    <project name="build"		remote="mbrazeau"	 path="build"/>
+    <project name="nui"			remote="mbrazeau"	 path="nui"/>
 
 </manifest>
