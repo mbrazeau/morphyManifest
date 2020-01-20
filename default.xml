@@ -7,6 +7,6 @@
     <project name="ncl"			remote="cdesjardins" path="ncl"/>
     <project name="wineditline" remote="cdesjardins" path="external/wineditline"/>
     <project name="build"		remote="mbrazeau"	 path="build"/>
-    <project name="nui"			remote="mbrazeau"	 path="nui"/>
+	<project name="nui"			remote="mbrazeau"	 path="nui" revision="refs/heads/dev"/>
 
 </manifest>
