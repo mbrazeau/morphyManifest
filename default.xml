@@ -7,6 +7,6 @@
 	<project name="mpl"	remote="mbrazeau" path="mpl" revisions="refs/heads/master"/>
 	<project name="nui"	remote="mbrazeau" path="nui" revisions="refs/heads/master"/>
 	<project name="ncl" remote="mtholder" path="ncl" revisions="refs/heads/master"/>
-	<project name="wineditline" remote="cdesjardins" path="ncl"/>
+	<project name="wineditline" remote="cdesjardins" path="external/wineditline"/>
 
 </manifest>
