@@ -8,5 +8,6 @@
 	<project name="nui"	remote="mbrazeau" path="nui" revisions="refs/heads/master"/>
 	<project name="ncl" remote="mtholder" path="external/ncl" revisions="refs/heads/master"/>
 	<project name="wineditline" remote="cdesjardins" path="external/wineditline"/>
-
+	<project name="buildMorphy" remote="mbrazeau" path="build"/>
+			
 </manifest>
